@@ -1,0 +1,12 @@
+{
+  "name": "hecharr-insurance-backend",
+  "version": "1.0.0",
+  "description": "HECHARR Insurance backend — Stripe + Supabase + Admin (Vercel)",
+  "private": true,
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "stripe": "^14.0.0",
+    "@supabase/supabase-js": "^2.39.0"
+  }
+}
